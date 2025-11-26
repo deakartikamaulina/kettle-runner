@@ -316,7 +316,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>${GITHUB_WORKSPACE}/etl/Pentaho_Work flow.ktr</filename>
+      <filename>${GITHUB_WORKSPACE}/etl/Pentaho_Workflow.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -385,3 +385,4 @@
   </notepads>
   <attributes/>
 </job>
+
